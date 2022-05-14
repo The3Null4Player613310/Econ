@@ -1,2 +1,2 @@
 # Econ
-Economy Addon for Gmod
+Economy addon for Gmod
